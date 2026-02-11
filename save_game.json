@@ -1,0 +1,11 @@
+{
+  "name": "nadia",
+  "hp": 43,
+  "max_hp": 100,
+  "atk": 12,
+  "inventory": [
+    "Potion"
+  ],
+  "gold": 50,
+  "keys": 1
+}
